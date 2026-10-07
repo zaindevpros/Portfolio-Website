@@ -90,21 +90,18 @@ const WhatIDo = () => {
               <h3>DEVELOP</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                Building responsive and user-centered web interfaces with modern
+                front-end design, translating technical requirements into
+                effective digital solutions.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">Three.js</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Css</div>
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">PHP</div>
-                <div className="what-tags">MySql</div>
+                <div className="what-tags">Advanced Web Development</div>
+                <div className="what-tags">Web Design</div>
+                <div className="what-tags">UI/UX Concepts</div>
+                <div className="what-tags">Front-End Design</div>
+                <div className="what-tags">Problem Solving</div>
+                <div className="what-tags">Time Management</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -128,22 +125,21 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>DESIGN</h3>
+              <h3>SOLUTIONS</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                Handling end-to-end client inquiries, technical product
+                demonstrations, key account management, and tailored software
+                recommendations driving customer growth.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Blender</div>
-                <div className="what-tags">Zbrush</div>
-                <div className="what-tags">UI Design</div>
-                <div className="what-tags">Motion</div>
-                <div className="what-tags">Rigging</div>
-                <div className="what-tags">3D Animation</div>
-                <div className="what-tags">Character Design</div>
-                <div className="what-tags">Modelling</div>
+                <div className="what-tags">Software Sales & Support</div>
+                <div className="what-tags">Client Relations</div>
+                <div className="what-tags">Technical Demos</div>
+                <div className="what-tags">Sales & Negotiation</div>
+                <div className="what-tags">MS Office Suite</div>
+                <div className="what-tags">Team Collaboration</div>
               </div>
               <div className="what-arrow"></div>
             </div>

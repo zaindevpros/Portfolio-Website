@@ -15,43 +15,59 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Software Sales & Support Specialist</h4>
+                <h5>Software House | Karachi, Pakistan</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>EXP</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Handled end-to-end client inquiries, recommending tailored software
+              solutions that increased satisfaction rates. Collaborated closely
+              with the software development team on custom requirements, managed
+              key accounts, and delivered technical demonstrations to prospective
+              clients.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Diploma in Information Technology</h4>
+                <h5>Aptech Computer Education</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>DIT</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Completed comprehensive 3-Year Diploma program in Information
+              Technology, gaining rigorous training in advanced web development,
+              software fundamentals, and modern UI/UX design concepts.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Microsoft Office Specialist Training</h4>
+                <h5>Aptech Computer Education</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>CERT</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Professional training in Microsoft Office Suite (Word, Excel,
+              PowerPoint), focusing on executive documentation, data
+              organization, and business presentations.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Matriculation (Science)</h4>
+                <h5>M2 Grammar School, Karachi (Sindh Board)</h5>
+              </div>
+              <h3>SSC</h3>
+            </div>
+            <p>
+              Secondary school education in Science under Sindh Board,
+              establishing core analytical problem-solving skills, science, and
+              mathematics.
             </p>
           </div>
         </div>

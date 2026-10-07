@@ -80,7 +80,10 @@ const SocialIcons = () => {
           </a>
         </span>
       </div>
-      <a className="resume-button" href="#">
+      <a
+        className="resume-button"
+        href="mailto:zalndevpros@gmail.com?subject=Resume%20Request"
+      >
         <HoverLinks text="RESUME" />
         <span>
           <TbNotes />
